@@ -1,0 +1,1 @@
+Project for service registration/discovery and configuration center.
